@@ -1,0 +1,11 @@
+@article{malik2016a,
+	author = {Momin M. Malik and and J\"{u}rgen Pfeffer},
+	title = {A macroscopic analysis of news content in {Twitter}},
+	journal = {Digital Journalism},
+	year = {2016},
+	doi = {10.1080/21670811.2015.1133249},
+	url = {http://www.tandfonline.com/doi/full/10.1080/21670811.2015.1133249},
+	volume = {8},
+	number = {8},
+	pages = {955--979}
+}

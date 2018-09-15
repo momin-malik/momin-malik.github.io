@@ -1,0 +1,11 @@
+@inproceedings{malik2015,
+	author = {Momin M. Malik and Hemank Lamba and Constantine Nakos and J\"{u}rgen Pfeffer},
+	title = {Population bias in geotagged tweets},
+	conference = {Ninth International {AAAI} Conference on Web and Social Media},
+	year = {2015},
+	booktitle = {Papers from the 2015 ICWSM Workshop on Standards and Practices in Large-Scale Social Media Research},
+	series = {ICWSM-15 SPSM},
+	location = {Oxford, UK},
+	url = {http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10662},
+	pages = {18--27},
+}
