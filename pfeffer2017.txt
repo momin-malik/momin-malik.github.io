@@ -1,0 +1,12 @@
+@inbook{pfeffer2017,
+	author = {J{\"u}rgen Pfeffer and Momin M. Malik},
+	editor = {Betina Hollstein and Wenzel Matiaske and Kai-Uwe Schnapp},
+	title = {Simulating the dynamics of socio-economic systems},
+	booktitle = {Networked governance: New research perspectives},
+	year = {2017},
+	publisher = {Springer International Publishing},
+	location = {Cham, Switzerland},
+	pages = {143--161},
+	doi = {10.1007/978-3-319-50386-8_9},
+	url = {https://link.springer.com/chapter/10.1007%2F978-3-319-50386-8_9}
+}

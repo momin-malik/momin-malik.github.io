@@ -1,0 +1,10 @@
+@inproceedings{malik2016b,
+	author = {Momin M. Malik and J\"{u}rgen Pfeffer},
+	title = {Identifying platform effects in social media data},
+	conference = {Tenth International AAAI Conference on Web and Social Media},
+	year = {2016},
+	booktitle = {Proceedings of the Tenth International AAAI Conference on Web and Social Media},
+	series = {ICWSM-16},
+	pages = {241--249},
+	location = {Cologne, Germany},
+}

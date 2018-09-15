@@ -1,0 +1,11 @@
+@inproceedings{lamba2015,
+	author = {Hemank Lamba and Momin M. Malik and J\"{u}rgen Pfeffer},
+	title = {A Tempest in a Teacup? Analyzing Firestorms on {Twitter}},
+	booktitle = {Proceedings of the 2015 {IEEE}/{ACM} International Conference on Advances in Social Networks Analysis and Mining},
+	series = {ASONAM '15},
+	year = {2015},
+	location = {Paris, France},
+	pages = {17--24},
+	url = {http://doi.acm.org/10.1145/2808797.2808828},
+	doi = {10.1145/2808797.2808828},
+}
